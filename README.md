@@ -1,5 +1,6 @@
 # sortingviz
 ![Merge Sort Screenshot](https://raw.githubusercontent.com/j0hax/sortingviz/master/screenshot2.png "Merge Sort")
+
 A simple sorting visualizer written in Java.
 
 ## General Overview
